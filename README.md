@@ -21,15 +21,16 @@ _Action Detection, Recognition, and Prediction_
 
 
 _Video Summary and Caption_
+
 - FFNet: Video fast-forwarding via reinforcement learning [[Link](https://arxiv.org/pdf/1805.02792.pdf)]
 - Video captioning via hierarchical reinforcement learning [[Link](https://arxiv.org/pdf/1711.11135.pdf)]
 
 __DRL for Network Structure Learning__
+
 - Neural architecture search with reinforcement learning [[Link](https://arxiv.org/pdf/1611.01578.pdf)]
 - Learning transferable architectures for scalable image recognition [[Link](https://arxiv.org/pdf/1707.07012.pdf)]
 - AMC: AutoML for model compression and acceleration on mobile devices [[Link](https://arxiv.org/pdf/1802.03494.pdf)]
 - HAQ: Hardware-aware Automated Quantization with Mixed-precision [[Link](https://arxiv.org/pdf/1811.08886.pdf)]
-
 - Runtime neural pruning [[Link](https://dl.acm.org/doi/pdf/10.5555/3294771.3294979)]
 - Runtime Network Routing for Efficient Image Classification [[Link](https://raoyongming.github.io/files/pami18.pdf)]
 - Skipnet: Learning dynamic routing in convolutional networks [[Link](https://arxiv.org/pdf/1711.09485.pdf)]
