@@ -1,6 +1,7 @@
 # Deep-Reinforcement-Learning-for-Computer-Vision
 
 __DRL for Video Analysis__
+
 _Object (face) Detection, Tracking, and Recognition_
 
 Deep Reinforcement Learning with Iterative Shift for Visual Tracking [[Link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Deep_Reinforcement_Learning_ECCV_2018_paper.pdf)]
