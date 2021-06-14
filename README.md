@@ -4,19 +4,19 @@ __DRL for Video Analysis__
 
 _Object (face) Detection, Tracking, and Recognition_
 
-Deep Reinforcement Learning with Iterative Shift for Visual Tracking [[Link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Deep_Reinforcement_Learning_ECCV_2018_paper.pdf)]
+- Deep Reinforcement Learning with Iterative Shift for Visual Tracking [[Link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Deep_Reinforcement_Learning_ECCV_2018_paper.pdf)]
 
-Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning [[Link](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf)]
+- Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning [[Link](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf)]
 
-Tracking as Online Decision-Making: Learning a Policy from Streaming Videos with Reinforcement Learning [[Link](https://arxiv.org/pdf/1707.04991.pdf)]
+- Tracking as Online Decision-Making: Learning a Policy from Streaming Videos with Reinforcement Learning [[Link](https://arxiv.org/pdf/1707.04991.pdf)]
 
-Dual-Agent Deep Reinforcement Learning for Deformable Face Tracking [[Link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Minghao_Guo_Dual-Agent_Deep_Reinforcement_ECCV_2018_paper.pdf)]
+- Dual-Agent Deep Reinforcement Learning for Deformable Face Tracking [[Link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Minghao_Guo_Dual-Agent_Deep_Reinforcement_ECCV_2018_paper.pdf)]
 
-Collaborative Deep Reinforcement Learning for Multi-object Tracking [[Link](https://arxiv.org/pdf/1702.05573.pdf)]
+- Collaborative Deep Reinforcement Learning for Multi-object Tracking [[Link](https://arxiv.org/pdf/1702.05573.pdf)]
 
-Attention-aware deep reinforcement learning for video face recognition [[Link](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rao_Attention-Aware_Deep_Reinforcement_ICCV_2017_paper.pdf)]
+- Attention-aware deep reinforcement learning for video face recognition [[Link](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rao_Attention-Aware_Deep_Reinforcement_ICCV_2017_paper.pdf)]
 
-Hyperparameter Optimization for Tracking With Continuous Deep Q-Learning [[Link](http://www.porikli.com/mysite/pdfs/porikli%202018%20-%20Hyperparameter%20optimization%20for%20tracking%20with%20continuous%20deep%20Q-learning.pdf)]
+- Hyperparameter Optimization for Tracking With Continuous Deep Q-Learning [[Link](http://www.porikli.com/mysite/pdfs/porikli%202018%20-%20Hyperparameter%20optimization%20for%20tracking%20with%20continuous%20deep%20Q-learning.pdf)]
 
 
 _Action Detection, Recognition, and Prediction_
