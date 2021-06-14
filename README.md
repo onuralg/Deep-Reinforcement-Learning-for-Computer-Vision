@@ -86,4 +86,7 @@ PoseAgent: Budget-Constrained 6D Object Pose Estimation via Reinforcement Learni
 A Reinforcement Learning Approach to the View Planning Problem
 
 
+References:
+- CVPR 2019 Tutorial [Link](http://ivg.au.tsinghua.edu.cn/DRLCV/)
+- DRL in CV [Link](https://bardofcodes.github.io/DRL_in_CV/)
 
