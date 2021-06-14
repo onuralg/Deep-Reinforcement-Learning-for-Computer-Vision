@@ -20,19 +20,23 @@ _Object (face) Detection, Tracking, and Recognition_
 
 
 _Action Detection, Recognition, and Prediction_
-Deep Progressive Reinforcement Learning for Skeleton-Based Action Recognition [[Link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.pdf)]
-Part-Activated Deep Reinforcement Learning for Action Prediction [[Link](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Lei_Chen_Part-Activated_Deep_Reinforcement_ECCV_2018_paper.pdf)]
-A Self-Adaptive Proposal Model for Temporal Action Detection based on Reinforcement Learning [[Link](https://arxiv.org/pdf/1706.07251.pdf)]
+
+- Deep Progressive Reinforcement Learning for Skeleton-Based Action Recognition [[Link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.pdf)]
+
+- Part-Activated Deep Reinforcement Learning for Action Prediction [[Link](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Lei_Chen_Part-Activated_Deep_Reinforcement_ECCV_2018_paper.pdf)]
+
+- A Self-Adaptive Proposal Model for Temporal Action Detection based on Reinforcement Learning [[Link](https://arxiv.org/pdf/1706.07251.pdf)]
+
 
 _Video Summary and Caption_
-FFNet: Video fast-forwarding via reinforcement learning [[Link](https://arxiv.org/pdf/1805.02792.pdf)]
-Video captioning via hierarchical reinforcement learning [[Link](https://arxiv.org/pdf/1711.11135.pdf)]
+- FFNet: Video fast-forwarding via reinforcement learning [[Link](https://arxiv.org/pdf/1805.02792.pdf)]
+- Video captioning via hierarchical reinforcement learning [[Link](https://arxiv.org/pdf/1711.11135.pdf)]
 
 __DRL for Network Structure Learning__
-Neural architecture search with reinforcement learning [[Link](https://arxiv.org/pdf/1611.01578.pdf)]
-Learning transferable architectures for scalable image recognition [[Link](https://arxiv.org/pdf/1707.07012.pdf)]
-AMC: AutoML for model compression and acceleration on mobile devices [[Link](https://arxiv.org/pdf/1802.03494.pdf)]
-HAQ: Hardware-aware Automated Quantization with Mixed-precision [[Link](https://arxiv.org/pdf/1811.08886.pdf)]
+- Neural architecture search with reinforcement learning [[Link](https://arxiv.org/pdf/1611.01578.pdf)]
+- Learning transferable architectures for scalable image recognition [[Link](https://arxiv.org/pdf/1707.07012.pdf)]
+- AMC: AutoML for model compression and acceleration on mobile devices [[Link](https://arxiv.org/pdf/1802.03494.pdf)]
+- HAQ: Hardware-aware Automated Quantization with Mixed-precision [[Link](https://arxiv.org/pdf/1811.08886.pdf)]
 
 Runtime neural pruning [[Link](https://dl.acm.org/doi/pdf/10.5555/3294771.3294979)]
 Runtime Network Routing for Efficient Image Classification [[Link](https://raoyongming.github.io/files/pami18.pdf)]
